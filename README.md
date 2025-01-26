@@ -20,4 +20,5 @@ The project utilizes the widely-used Iris dataset, a classic benchmark dataset i
 # Results:
 The Decision Tree model achieved an accuracy of 100% on the Iris dataset, indicating its ability to perfectly classify the three Iris species based on the provided features. However, achieving perfect accuracy on this relatively simple dataset might indicate overfitting. Further evaluation on a larger and more diverse dataset is recommended to assess the model's generalization ability.
 
-If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on LinkedIn and Email : https://www.linkedin.com/in/haninfirginita/ and firginita.hanin@gmail.com #Python #EDA #load_iris #sklearn_datasets
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on LinkedIn and Email : https://www.linkedin.com/in/haninfirginita/ and firginita.hanin@gmail.com 
+#Python #EDA #load_iris #sklearn_datasets
