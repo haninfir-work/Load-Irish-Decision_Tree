@@ -3,7 +3,7 @@
 # Description Project
 This project, developed as part of the Digital Skills Fair 35.0 by Dibimbing, aims to build a machine learning model capable of classifying Iris flowers into their respective species (setosa, versicolor, or virginica) based on their sepal and petal measurements. A Decision Tree classifier is employed for this task due to its simplicity, interpretability, and effectiveness in handling this type of classification problem.
 
-Here's the link: https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris
+Here's the link: https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris or https://www.kaggle.com/datasets/uciml/iris
 
 ## Datasets:
 The project utilizes the widely-used Iris dataset, a classic benchmark dataset in machine learning and a staple in introductory data science education. It consists of 150 samples, with 50 samples for each of the three Iris species. Each sample contains four features: sepal length, sepal width, petal length, and petal width.
