@@ -14,8 +14,10 @@ The project utilizes the widely-used Iris dataset, a classic benchmark dataset i
 3. Evaluate the model's performance and gain insights from the results.
 
 # Insight
-1. Petal features (length and width) are highly influential in predicting Iris flower species.
-2. Decision Tree model can effectively leverage these features to achieve accurate classification.
+1. The Iris dataset is relatively easy to classify using a Decision Tree Classifier.
+2. Petal length and petal width are the most important features for predicting the iris species.
+3. The Decision Tree model achieved high accuracy on the test dataset, indicating its effectiveness for this classification task.
+4. The visualizations provided valuable insights into the relationships between features and the target variable, as well as the decision-making process of the model.
 
 # Results:
 The Decision Tree model achieved an accuracy of 100% on the Iris dataset, indicating its ability to perfectly classify the three Iris species based on the provided features. However, achieving perfect accuracy on this relatively simple dataset might indicate overfitting. Further evaluation on a larger and more diverse dataset is recommended to assess the model's generalization ability.
