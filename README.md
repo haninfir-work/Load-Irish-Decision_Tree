@@ -3,7 +3,8 @@
 # Description Project
 This project explores the Iris dataset to build a model for classifying Iris flower species. It involves data exploration, preprocessing, visualization, and building a Decision Tree classifier. The project aims to gain insights from the dataset, develop an accurate prediction model, and evaluate its performance.
 
-Here's the link: https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris or https://www.kaggle.com/datasets/uciml/iris
+Here's the link: 
+https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris or https://www.kaggle.com/datasets/uciml/iris
 
 ## Datasets:
 The project utilizes the widely-used Iris dataset, a classic benchmark dataset in machine learning and a staple in introductory data science education. It consists of 150 samples, with 50 samples for each of the three Iris species. Each sample contains four features: sepal length, sepal width, petal length, and petal width.
